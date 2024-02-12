@@ -1,2 +1,1 @@
-coucou c'est un test
-la je fais une modif uniquement dans branch feature1
+coucou c'est un test de merge branching
